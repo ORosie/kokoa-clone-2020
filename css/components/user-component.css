@@ -53,7 +53,9 @@
   display: block;
   }
 
-  .user-component-text{
-      
+  .a{
+   position: relative;
+   margin-left: 250px;
   }
+
   
